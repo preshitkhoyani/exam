@@ -1,0 +1,3 @@
+Name: yona, Role: gard
+Name: kota, Role: doctor
+Name: jon, Role: policee
